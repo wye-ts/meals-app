@@ -1,4 +1,4 @@
-# meals_app
+# meals-app
 
 A recipe app
 
